@@ -1,7 +1,5 @@
-# resume
- 
-## Pandoc
+# Resume
 
-```bash
-pandoc -s -o 2023-08-22.docx 2023-08-22.md
-```
+Dated versions of my resume
+
+Dated journal of postings applied to
