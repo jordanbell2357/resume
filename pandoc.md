@@ -41,3 +41,15 @@ pandoc JB-2024-01-31.md -o JB-2024-01-31.pdf --pdf-engine=xelatex \
 -V geometry:"top=1in, bottom=1in, left=0.5in, right=0.5in" \
 -V colorlinks -V urlcolor=blue -V pagestyle=empty
 ```
+
+```bash
+pandoc JB-2024-02-12.md -o JB-2024-02-12.pdf --pdf-engine=xelatex \
+-V geometry:"top=1in, bottom=1in, left=0.5in, right=0.5in" \
+-V colorlinks -V urlcolor=blue -V pagestyle=empty
+```
+
+```bash
+pandoc JB-2024-02-12.md -o JB-2024-02-12.docx --pdf-engine=xelatex \
+-V geometry:"top=1in, bottom=1in, left=0.5in, right=0.5in" \
+-V colorlinks -V urlcolor=blue -V pagestyle=empty
+```
